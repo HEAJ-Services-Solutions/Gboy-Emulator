@@ -1,4 +1,4 @@
 Gboy-Emulator
 =============
 
-Emulador de GameBoy Color Para Firefox OS, un emulador de GameBoy Color creado en HTML5, JS y CSS3.
+Emulador de GameBoy Color, un emulador de GameBoy Color creado en HTML5, JS y CSS3.
